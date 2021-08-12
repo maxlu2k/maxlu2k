@@ -1,4 +1,4 @@
-![catgg](https://media.giphy.com/media/aIXdJBpkWmL4uObnh8/giphy.gif)
+![catgg](https://media.giphy.com/media/IdB7OP49LltCRHKNqP/giphy.gif)
 # Hi there 👋, i'm **Lus**
 #### *Welcome to my GitHub ^^*
 I'm a newbie.
