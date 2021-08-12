@@ -1,4 +1,4 @@
-![catgg](https://media.giphy.com/media/IdB7OP49LltCRHKNqP/giphy.gif)
+![githubCat](https://user-images.githubusercontent.com/54041245/129126506-1c5e14c2-08e1-483f-be5e-507fc9e216c2.jpg)
 # Hi there 👋, i'm **Lus**
 #### *Welcome to my GitHub ^^*
 I'm a newbie.
