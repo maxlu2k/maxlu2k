@@ -1,5 +1,4 @@
-![blackCat](https://user-images.githubusercontent.com/54041245/129125354-d204b39d-a07d-4b01-b047-e04263cdf331.jpg)
-![catgg](https://user-images.githubusercontent.com/54041245/129121551-16f0a9ab-1892-44cd-8d51-66a0a6a79004.gif)
+![catgg](https://media.giphy.com/media/aIXdJBpkWmL4uObnh8/giphy.gif)
 # Hi there 👋, i'm **Lus**
 #### *Welcome to my GitHub ^^*
 I'm a newbie.
