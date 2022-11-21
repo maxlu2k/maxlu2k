@@ -6,7 +6,7 @@ I'm a newbie.
 
 ## Skill 
 * HTML/CSS, Bootstrap.
-* Java core, Java Spring boot, SQL Server, MySQL, Hibernate, JSP/Servlet
+* Java core, Java Spring boot, SQL Server, MySQL, Hibernate, JSP/Servlet ...
 * Angular
 
 - 🌱 I’m currently learning java 
