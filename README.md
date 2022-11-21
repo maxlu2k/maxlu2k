@@ -2,12 +2,12 @@
 # Hi there 👋, i'm **Lus**
 #### *Welcome to my GitHub ^^*
 I'm a newbie.
- Currently, I'am studying application software at FPT University. I also love coding, if you are like me contact me, we can exchange knowledge and learn more. **Nice to meet you !**
+ Currently, I'am studying application software at FPT Polytechnic. I also love coding, if you are like me contact me, we can exchange knowledge and learn more. **Nice to meet you !**
 
 ## Skill 
-* HTML
-* CSS
-* JAVA / JS
+* HTML/CSS, Bootstrap.
+* Java core, Java Spring boot, SQL Server, MySQL, Hibernate, JSP/Servlet
+* Angular
 
 - 🌱 I’m currently learning java 
 - 💬 Ask me about Ask me about anything, if I know I will answer 
