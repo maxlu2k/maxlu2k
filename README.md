@@ -6,7 +6,7 @@
 #### *Welcome to my GitHub ^^*
 If you know me you can follow me. **Nice to meet you !**
 
-## Skill 
+## Language 
 * HTML/CSS, Bootstrap.
 * Java core, Java Spring boot, SQL Server, MySQL, Hibernate, JSP/Servlet ...
 * Angular
