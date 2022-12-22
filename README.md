@@ -4,7 +4,7 @@
 
 # Hi there 👋, i'm **Lus**
 #### *Welcome to my GitHub ^^*
-If you know me you can follow me. **Nice to meet you !**
+You can follow me. **Nice to meet you !**
 
 ## Language 
 * HTML/CSS, Bootstrap.
