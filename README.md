@@ -12,8 +12,7 @@ If you know me you can follow me. **Nice to meet you !**
 * Angular
 
 - 🌱 I’m currently learning java 
-- 💬 Ask me about Ask me about anything, if I know I will answer 
-- 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100022771942685) 
+- 💬 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100022771942685) 
 
 ## Social
 <div align="center">
