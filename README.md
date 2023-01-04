@@ -15,20 +15,24 @@ You can follow me. **Nice to meet you !**
 - 💬 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100022771942685) 
 
 ## Stats
-<div align="center">
- 
-[![Lus](https://github-readme-stats.vercel.app/api?username=maxlu2k&show_icons=true&theme=radical&custom_title=Dung's_Stats)](https://github.com/maxlu2k)
- <br>
-[![Lus](https://github-readme-stats.vercel.app/api/top-langs/?username=maxlu2k&layout=compact&theme=radical&card_width=445&custom_title=Dung's_Language)](https://github.com/maxlu2k)
- </div>
- 
+
  <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/maxlu2k/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxlu2k&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" alt="Rick Staa's Language stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxlu2k&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" alt="Mạnh Dũng's Language stats" />
 </a>
 <a href="https://github.com/maxlu2k/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maxlu2k&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Rick Staa's Github stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maxlu2k&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Mạnh Dũng's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/maxlu2k/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxlu2k&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mạnh Dũng's Language stats" />
+</a>
+<a href="https://github.com/maxlu2k/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maxlu2k&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mạnh Dũng's Github stats" />
 </a>
 </div>
  
