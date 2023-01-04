@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=M.Dung&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=M.Dũng&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
 </p>
 
 # Hi there 👋, i'm **Lus**
@@ -28,7 +28,7 @@ You can follow me. **Nice to meet you !**
 
 <!-- Dark Mode -->
 <div align="center"> 
-<a href="https://github.com/maxlu2k">
+<a href="https://github.com/maxlu2k/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxlu2k&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mạnh Dũng's Language stats" />
 </a>
 <a href="https://github.com/maxlu2k/github-readme-stats#gh-dark-mode-only">
