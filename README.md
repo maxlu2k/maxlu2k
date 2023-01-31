@@ -20,7 +20,9 @@ You can follow me. **Nice to meet you !**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%6db33f.svg?style=flat-square&logo=SpringBoot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%4479a1.svg?style=flat-square&logo=MySQL&logoColor=white)
+
 
 ## Stats
 
