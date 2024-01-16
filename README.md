@@ -14,14 +14,11 @@ You can follow me. **Nice to meet you !**
 - 🌱 I’m currently learning java 
 - 💬 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100022771942685) 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%6db33f.svg?style=flat-square&logo=SpringBoot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%4479a1.svg?style=flat-square&logo=MySQL&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,vue,vite,nodejs,js,mysql,postman,git,html,css,idea,vscode" />
+  </a>
+</p>
 
 
 ## Stats
