@@ -7,9 +7,9 @@
 **Nice to meet you !**
 
 ## Skills 
+* Java, SQL Server, MySQL
+* JavaScript, VueJs, Vite, AngularJs
 * HTML/CSS, Bootstrap.
-* Java core, Java Spring boot, SQL Server, MySQL, Hibernate, JSP/Servlet ...
-* JavaScript, VueJs, AngularJs
 
 - 🌱 I’m currently learning java 
 - 💬 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100022771942685) 
