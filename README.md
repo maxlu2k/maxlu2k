@@ -50,6 +50,6 @@
 </div>
 <div align="center">
   
- [![Lus](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)](https://github.com/maxlu2k)
+snake
 
 </div>
