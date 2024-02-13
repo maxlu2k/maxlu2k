@@ -7,13 +7,6 @@
 **Nice to meet you !**
 
 ## Skills 
-* Java, SQL Server, MySQL
-* JavaScript, VueJs, Vite, AngularJs
-* HTML/CSS, Bootstrap.
-
-- 🌱 I’m currently learning java 
-- 💬 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100022771942685) 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,vue,vite,nodejs,js,mysql,postman,git,html,css,idea,vscode&theme=light" />
