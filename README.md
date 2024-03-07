@@ -2,9 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=M.Dũng&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
 </p>
 
-# Hi there 👋, i'm **Lus**
+# Hi there 👋, i'm **Lu**
 #### *Welcome to my GitHub ^^*
-**Nice to meet you !**
 
 ## Skills 
 <p align="center">
