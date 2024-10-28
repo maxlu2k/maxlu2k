@@ -5,7 +5,7 @@
 # I'm **Lu**
 #### *Welcome to my GitHub 👋*
 
-## Technology 
+## Technologies 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,vue,vite,nodejs,js,mysql,postman,git,html,css,idea,vscode&theme=light" />
@@ -34,7 +34,7 @@
 </a>
 </div>
  
-## Social
+## Social networks
 
 <div align="center">
  
