@@ -31,4 +31,15 @@
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maxlu2k&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Mạnh Dũng's Github stats" />
 </a>
 </div>
-            
+
+##Spotìy
+<div align="center">
+    <h1>Data Card for Spotify</h1>
+    <a href="https://data-card-for-spotify.herokuapp.com">
+      <img src="docs/basic.svg" alt="Data Card for Spotify">
+    </a>
+    <br>
+    <br>
+    <p>Dynamically generated Spotify data to embed in your README or website</p>
+    <br>
+</div>
