@@ -32,7 +32,7 @@
 </a>
 </div>
 
-##Spotìy
+## Spotify
 <div align="center">
     <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31cpcgsjiog5rbpctqbkspdkqd4m">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31cpcgsjiog5rbpctqbkspdkqd4m" alt="Data Card for Spotify">
