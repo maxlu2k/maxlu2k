@@ -7,7 +7,7 @@
 ## Technologies 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,vue,vite,nodejs,js,mysql,postman,git,html,css,idea,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,vue,vite,nodejs,js,mysql,postman,git,html,css,idea,vscode,docker&theme=light" />
   </a>
 </p>
 
